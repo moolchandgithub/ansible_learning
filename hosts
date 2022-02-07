@@ -1,0 +1,13 @@
+[UBUNTU]
+ubuntu
+debian
+
+[CENTOS]
+centos8
+centos9
+
+[REDHAT]
+local
+
+[ORACLE]
+oracle7
