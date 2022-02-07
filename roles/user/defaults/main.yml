@@ -1,0 +1,6 @@
+---
+# defaults file for user
+users: 
+  - name: attrish
+    userpass: 'Nokia#1234'
+    sudoaccess: 'ALL=(ALL)       ALL'

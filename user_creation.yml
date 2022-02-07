@@ -1,0 +1,5 @@
+---
+# Playbook to create users with Name, password & SUDO Access
+- hosts: all
+  roles:
+    - user
